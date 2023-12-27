@@ -1,4 +1,4 @@
-from defs import *
+from src.defs import *
 from pygame.locals import *
 
 pygame.init()
